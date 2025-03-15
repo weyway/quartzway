@@ -5,6 +5,7 @@ As live letters are usually very image heavy, posting these on discord even usin
 Since I gather the information in bulk before I organise it and split it into pieces for discord, this format will align better with my own crazy ways as I won't have to split anything in discord posts.
 
 `Retention`
+
 In order to avoid this page becoming massive, I will only include the current expansion's Live Letters.
 If there's relevant content in it, the previous Live Letter before an expansion is released will also be retained.
 Anything outside of the above, will be eventually removed at the launch of a new expansion patch cycle (as my time allows). 😊
